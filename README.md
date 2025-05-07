@@ -11,9 +11,11 @@ The contract incorporates security measures such as reentrancy protection and us
 
 # Features
 
-Issuance: Users can deposit vPLS to receive PLSTR.
+Issuance: Users can deposit vPLS to receive PLSTR. minus 0.5% fee.
 
-Redemption: Users can burn PLSTR to receive a proportional amount of vPLS.
+Half of the 0.5% fee collected by the SC will go to provide liquidity.
+
+Redemption: Users can burn PLSTR to receive a proportional amount of vPLS. 
 
 Issuance Period: A 180-day period
 
@@ -30,15 +32,11 @@ Your vPLS continues earning validator rewards from PulseChain even while backing
 
 After the 180-day issuance period, the SC (Strategy Controller, akin to the OA) will monitor the market and capture any PLSTR premiums.
 
-The SC will use any captured premiums to:
+The SC uses any captured premiums to Acquire more vPLS to build the reserves and in doing so helps to secure the network and increase bridge tvl.
 
-Increase PulseChain's bridge TVL.
+PLSTR will always be at least 1:1, but the goal is to increase the ratio by capturing market premiums. 
 
-Acquire more vPLS to secure the network.
-
-Transfer vPLS to Ethereum and reinvest it into vPLS reserves, growing the backing of PLSTR and increasing the proportional amount holders receive upon redemption.
-
-PLSTR will always be at least 1:1, but the goal is to increase the ratio by capturing market premiums. The SC will issue additional PLSTR after the issuance period to sell on secondary markets only when PLSTR trades at a 2x premium or higher.
+The SC will issue additional PLSTR after the issuance period to sell on secondary markets only when PLSTR trades at a 2x premium or higher.
 
 The SC can mint up to 100 million PLSTR every 7 days if the requirement of PLSTR trading at a 2x premium or above is met.
 

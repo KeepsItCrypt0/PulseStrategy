@@ -60,7 +60,6 @@ We welcome contributions! To contribute:
 
 
 We especially encourage contributions to develop new front-end interfaces to enhance user interaction with the contract.
-Contact
 
 For questions or support, please open an issue on this repository or contact the maintainers via 
 

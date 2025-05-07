@@ -15,7 +15,7 @@ Features
 
 # What's PulseStrategy All About?
 
-"some say it's the better microstrategy"
+"some say it's the better onchain MicroStrategy"
  
 The goal of this defi product is growing PulseChain and rewarding PLSTR holders. 
 

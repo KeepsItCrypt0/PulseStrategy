@@ -10,7 +10,7 @@ Features
 
 • Issuance: Users can deposit vPLS to receive PLSTR.
 
-• Redemption: Users can burn PLSTR to receive a proportional amount of vPLS.
+• Redemption: Users can burn PLSTR to receive a PROPORTIONAL amount of vPLS.
 
 • Issuance Period: A 180-day period
 
@@ -24,11 +24,13 @@ Holding PLSTR connects you directly to PulseChain's success
 
 - Your vPLS keeps earning validator rewards from PulseChain even while it's backing your PLSTR
 
-- The SC always has a eye on the market and will capture any PLSTR Premiums taking that value to pulsechain rasing bridge TVL and acquiring more vPLS helping to secure the network and sending the vPLS back to ETH an pumping it back into vPLS reserves growing the backing of PLSTR with more vPLS
+- The SC always has a eye on the market and will capture any PLSTR Premiums taking that value to pulsechain rasing bridge TVL and acquiring more vPLS helping to secure the network and sending the vPLS back to ETH an pumping it back into vPLS reserves growing the backing of PLSTR and the PROPORTIONAL amount you get when you redeem.
+
+PLSTR WILL ALWAY BE ATLEAST 1 TO 1
+but the goal is to increase the ratio by capturing market premiums by issuing more PLSTR AFTER ISSUANCE to sell on secondary markets ONLY when SC sees its trading at a 2x premium microstrategy style but on chain
 
 - liquidity providers could earn huge fees while the unstoppable actions of the SC could offset any impermanent loss.
-
-  
+ 
 - Your participation directly helps make PulseChain stronger and more valuable by exposing Ethereum users to pulsechain assets helping the protocol capture value from ETH and bring it to pulsechain 
 
 

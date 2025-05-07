@@ -1,5 +1,8 @@
 # PulseStrategy Overview
 
+ The OnChain MicroStrategy
+        But Better
+
 PulseStrategy is an ERC20 token contract that allows users to issue and redeem PLSTR backed by vPLS Vouch staked PLS from PulseChain.
 
 The contract incorporates security measures such as reentrancy protection and uses OpenZeppelin's standard libraries for ERC20 functionality and safe token handling.
@@ -15,8 +18,6 @@ Features
 
 # What's PulseStrategy All About?
 
-"some say it's the better onchain MicroStrategy"
- 
 The goal of this defi product is growing PulseChain and rewarding PLSTR holders. 
 
 Holding PLSTR connects you directly to PulseChain's success

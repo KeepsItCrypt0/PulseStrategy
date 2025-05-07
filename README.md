@@ -16,17 +16,34 @@ Features
 
 • Security: Uses OpenZeppelin's ReentrancyGuard and SafeERC20 for secure token operations.
 
+What's PulseStrategy All About?
+ 
+The goal of this defi product is growing PulseChain and rewarding PLSTR holders. 
+
+Holding PLSTR connects you directly to PulseChain's success
+
+- Your vPLS keeps earning validator rewards from PulseChain even while it's backing your PLSTR
+
+- The SC always has a eye on the market and will capture any PLSTR Premiums taking that value to pulsechain rasing bridge TVL and acquiring more vPLS helping to secure the network and sending the vPLS back to ETH an pumping it back into vPLS reserves growing the backing of PLSTR with more vPLS
+
+- liquidity providers could earn huge fees while the unstoppable actions of the SC could offset any impermanent loss.
+
+  
+- Your participation directly helps make PulseChain stronger and more valuable by exposing Ethereum users to pulsechain assets helping the protocol capture value from ETH and bring it to pulsechain 
+
+
+
 Contract Details
 
 • Token: PLSTR (PulseStrategy)
 
-• Contract Address: 0x6c1dA678A1B615f673208e74AB3510c22117090e
+• PLSTR Address: 0x6c1dA678A1B615f673208e74AB3510c22117090e
 
 • vPLS Address: 0x0181e249c507d3b454dE2444444f0Bf5dBE72d09
 
 • Minimum PLSTR issuance: 1,000 PLSTR
 
-• Issuance Period: 180 days from deployment
+• Issuance Period: 180 days from deployment. around Nov 1st 2025
 
 
 Prerequisites

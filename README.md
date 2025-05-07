@@ -58,9 +58,6 @@ We welcome contributions! To contribute:
 
 • Clone the GitHub repository: git clone <repository-url>.
 
-• Create a feature branch.
-
-• Submit a pull request with clear descriptions of changes.
 
 We especially encourage contributions to develop new front-end interfaces to enhance user interaction with the contract.
 Contact

@@ -1,4 +1,4 @@
-PulseStrategy Overview
+# PulseStrategy Overview
 
 PulseStrategy is an ERC20 token contract that allows users to issue and redeem PLSTR backed by vPLS Vouch staked PLS from PulseChain.
 
@@ -13,7 +13,7 @@ Features
 • Issuance Period: A 180-day period
 
 
-What's PulseStrategy All About?
+# What's PulseStrategy All About?
 
  
 The goal of this defi product is growing PulseChain and rewarding PLSTR holders. 

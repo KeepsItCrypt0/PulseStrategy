@@ -6,19 +6,15 @@ The contract incorporates security measures such as reentrancy protection and us
 
 Features
 
-• ERC20 Compliance: Implements the ERC20 standard for the PLSTR token with the name "PulseStrategy".
-
 • Issuance: Users can deposit vPLS to receive PLSTR.
 
 • Redemption: Users can burn PLSTR to receive a PROPORTIONAL amount of vPLS.
 
 • Issuance Period: A 180-day period
 
-• Security: Uses OpenZeppelin's ReentrancyGuard and SafeERC20 for secure token operations.
-
-
 
 What's PulseStrategy All About?
+
  
 The goal of this defi product is growing PulseChain and rewarding PLSTR holders. 
 
@@ -50,38 +46,19 @@ Contract Details
 • Issuance Period: 180 days from deployment. around Nov 1st 2025
 
 
-Prerequisites
 
-• Solidity Version: 0.8.20
-
-• Dependencies:
-
-• OpenZeppelin Contracts (@openzeppelin/contracts)
-
-• ERC20.sol
-
-• SafeERC20.sol
-
-• ReentrancyGuard.sol
-
-• IERC20Metadata.sol
-
-Install dependencies using npm:
-bash
-npm install @openzeppelin/contracts
-Usage
 
 License
 This contract is licensed under the MIT License. See the SPDX-License-Identifier at the top of the contract.
 
 
-We welcome contributions! To contribute:
+We welcome contributions!
 
 • Clone the GitHub repository: git clone <repository-url>.
 
 
 We especially encourage contributions to develop new front-end interfaces to enhance user interaction with the contract.
 
-For questions or support, please open an issue on this repository or contact the maintainers via 
+For questions or support, please contact the maintainers via 
 
 X @pulseStrategy

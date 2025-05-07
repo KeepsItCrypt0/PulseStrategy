@@ -15,6 +15,7 @@ Features
 
 # What's PulseStrategy All About?
 
+"some say it's the better microstrategy"
  
 The goal of this defi product is growing PulseChain and rewarding PLSTR holders. 
 
@@ -27,7 +28,9 @@ after the 180 day Issuance The SC(strategy controller akin to the OA) will turn 
 the sc will take any premiums captured to pulsechain (rasing bridge TVL) and acquire more vPLS (helping to secure the network) and sending the vPLS back to ETH an pump it back into vPLS reserves growing the backing of PLSTR and the PROPORTIONAL amount holders get when they redeem.
 
 PLSTR WILL ALWAY BE ATLEAST 1 TO 1
-but the goal is to increase the ratio by capturing market premiums by issuing more PLSTR AFTER ISSUANCE to sell on secondary markets ONLY when SC hears it trading at a 2x premium microstrategy style but on chain
+but the goal is to increase the ratio by capturing market premiums by issuing more PLSTR AFTER ISSUANCE to sell on secondary markets ONLY when SC hears it trading at a 2x premium.
+
+the SC can mint up to 100 million PLSTR every 7 days if the requirements of PLSTR trading at a 2X premium or above are met.
 
 liquidity providers could earn huge fees while the unstoppable actions of the SC could potentially offset any impermanent loss.
  

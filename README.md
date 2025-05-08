@@ -11,13 +11,13 @@ The contract incorporates security measures such as reentrancy protection and us
 
 # Features
 
-Issuance: Users can deposit vPLS to receive PLSTR. minus 0.5% fee.
+Issuance: Users can deposit vPLS to receive PLSTR duringthe first 180 days. minus 0.5% fee.
 
 Half of the 0.5% fee collected by the SC will go to provide liquidity.
 
-Redemption: Users can burn PLSTR to receive a proportional amount of vPLS. 
+Redemption: Users can burn PLSTR to receive a proportional amount of vPLS Anytime. 
 
-Issuance Period: A 180-day period
+Issuance Period: A 180-day period where PLSTR is able to be issued after only way to aquire PLSTR is on secondary markets.
 
 
 
@@ -50,10 +50,10 @@ Token: PLSTR (PulseStrategy)
 
 PLSTR Address: 0x6c1dA678A1B615f673208e74AB3510c22117090e
 
-vPLS Address: 0x0181e249c507d3b454dE2444444f0Bf5dBE72d09
+vPLS from PulseChain Address: 0x0181e249c507d3b454dE2444444f0Bf5dBE72d09
 
-Minimum PLSTR Issuance: 1,000 PLSTR
-Issuance Period: 180 days from deployment, around November 1, 2025
+Minimum PLSTR Issuance: 1,005 PLSTR
+Issuance Period: 180 days from deployment,November 1, 2025 issuance closes and then PLSTR can only be acquired on secondary markets.
 
 License
 This contract is licensed under the MIT License. See the SPDX-License-Identifier at the top of the contract.

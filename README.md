@@ -28,17 +28,17 @@ The goal of this DeFi product is to grow PulseChain and reward PLSTR holders.
 
 Holding PLSTR connects you directly to PulseChain's success.
 
-Your vPLS continues earning validator rewards from PulseChain even while backing your PLSTR.
+Your vPLS continues earning validator rewards from PulseChain even while backing your PLSTR on ETH.
 
-After the 180-day issuance period, the SC (Strategy Controller, akin to the OA) will monitor the market and capture any PLSTR premiums.
+After the 180-day issuance period, the Strategy Controller protocols will kick in an start to monitor the markets capturing any PLSTR premiums it can.
 
-The SC uses any captured premiums to Acquire more vPLS to build the reserves and in doing so helps to secure the network and increase bridge tvl.
+The SC uses any captured premiums to Acquire more vPLS to build the reserves and in doing so helps to secure the network and increase pulsechain bridge tvl.
 
-PLSTR will always be at least 1:1, but the goal is to increase the ratio by capturing market premiums. 
+PLSTR will always be at least 1:1, with the goal to increase the ratio by capturing market premiums. 
 
-The SC will issue additional PLSTR after the issuance period to sell on secondary markets only when PLSTR trades at a 2x premium or higher.
+The SC if triggered can issue additional PLSTR after the issuance period to sell on secondary markets only when PLSTR trades at a premium.
 
-The SC can mint up to 100 million PLSTR every 7 days if the requirement of PLSTR trading at a 2x premium or above is met.
+The SC can mint up to 100 million PLSTR every 7 days if the requirements of PLSTR trading at a premium is met.
 
 Liquidity providers could earn significant fees, while the SC's unstoppable actions may offset impermanent loss.
 

@@ -11,14 +11,13 @@ The contract incorporates security measures such as reentrancy protection and us
 
 # Features
 
-Issuance: Users can deposit vPLS to receive PLSTR duringthe first 180 days. minus 0.5% fee.
+Issuance: Users can deposit vPLS to receive PLSTR (-0.5%fee) during the first 180 days. 
+
+After the 180 day the only way to aquire PLSTR is on secondary markets.
 
 Half of the 0.5% fee collected by the SC will go to provide liquidity.
 
-Redemption: Users can burn PLSTR to receive a proportional amount of vPLS Anytime. 
-
-Issuance Period: A 180-day period where PLSTR is able to be issued after only way to aquire PLSTR is on secondary markets.
-
+Redemption: Users can burn PLSTR to receive a proportional amount of vPLS Anytime.
 
 
 # What's PulseStrategy All About?
@@ -30,15 +29,15 @@ Holding PLSTR connects you directly to PulseChain's success.
 
 Your vPLS continues earning validator rewards from PulseChain even while backing your PLSTR on ETH.
 
-After the 180-day issuance period, the Strategy Controller protocols will kick in an start to monitor the markets capturing any PLSTR premiums it can.
+After the 180-day issuance period, the Strategy Controller protocol will kick in an start to monitor the markets capturing any PLSTR premiums it can.
 
-The SC uses any captured premiums to Acquire more vPLS to build the reserves and in doing so helps to secure the network and increase pulsechain bridge tvl.
+The SC if triggered will issue additional PLSTR after the issuance period to put on secondary markets only when PLSTR trades at a premium.
+
+The SC uses any captured premiums to Acquire more vPLS to build the reserves and in doing so helps to secure the pulsechain network and increase pulsechain bridge tvl.
 
 PLSTR will always be at least 1:1, with the goal to increase the ratio by capturing market premiums. 
 
-The SC if triggered can issue additional PLSTR after the issuance period to sell on secondary markets only when PLSTR trades at a premium.
-
-The SC can mint up to 100 million PLSTR every 7 days if the requirements of PLSTR trading at a premium is met.
+The SC can mint up to 100 million PLSTR every 7 days if the requirements are met.
 
 Liquidity providers could earn significant fees, while the SC's unstoppable actions may offset impermanent loss.
 

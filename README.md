@@ -1,8 +1,6 @@
 # PulseStrategy Overview
 
 
-The On-Chain MicroStrategy, But Better
-
 PulseStrategy is an ERC20 token contract that allows users to issue and redeem PLSTR backed by vPLS (Vouch-staked PLS) from PulseChain.
 
 This is a Ethereum defi product designed to have direct synergy with Pulsechain.
@@ -10,15 +8,13 @@ This is a Ethereum defi product designed to have direct synergy with Pulsechain.
 The contract incorporates security measures such as reentrancy protection and uses OpenZeppelin's standard libraries for ERC20 functionality and safe token handling.
 
 
-
 # Features
 
-Issuance: Users can deposit vPLS to receive PLSTR (-0.5%fee) during the first 180 days.
+Issuance: Users may deposit vPLS to issue themselves PLSTR (-0.5%fee) during the first 180 days.
 
-Half of the 0.5% fee collected by the SC will go to provide liquidity.
+Half of the 0.5% fee collected will go to provide liquidity.
 
-Redemption: Users can burn PLSTR to receive a proportional amount of vPLS at any time.
-
+Redemption: Users can redeem PLSTR to receive a proportional amount of vPLS at any time.
 
 
 # What's PulseStrategy All About?
@@ -26,22 +22,19 @@ Redemption: Users can burn PLSTR to receive a proportional amount of vPLS at any
 
 The goal of this DeFi product is to grow PulseChain and reward PLSTR holders.
 
-Holding PLSTR connects you directly to PulseChain's success.
+PLSTR connects directly to PulseChain's success.
 
-Your vPLS continues earning validator rewards from PulseChain even while backing your PLSTR on ETH.
+vPLS continues earning validator rewards from PulseChain even while backing PLSTR on ETH.
 
-After the 180-day issuance period, the Strategy Controller protocol will kick in and monitor the markets capturing any PLSTR premiums it can.
-
-The SC, if triggered, will issue additional PLSTR after the issuance period to put on secondary markets when PLSTR trades at a premium.
-
-The SC uses any captured premiums to acquire more vPLS to build the reserves and, in doing so, helps to secure the pulsechain network and increase pulsechain bridge tvl.
-
-PLSTR will always be at least 1:1, with the goal to increase the ratio by capturing market premiums. 
-
-The SC can mint up to 100 million PLSTR every 7 days if the requirements are met.
+PLSTR will always be at least 1:1, with the possibility to increase the ratio of vPLS to PLSTR by capturing market premiums. 
 
 
-Your participation directly strengthens PulseChain by exposing Ethereum users to PulseChain assets, helping the protocol capture value from Ethereum and bring it to PulseChain.
+
+https://gopluslabs.io/token-security/1/0x6c1dA678A1B615f673208e74AB3510c22117090e
+
+https://blocksafu.com/token-scanner/1/0x6c1dA678A1B615f673208e74AB3510c22117090e
+
+Any participation directly strengthens PulseChain by exposing Ethereum users to PulseChain assets, helping the protocol capture value from Ethereum and bring it to PulseChain.
 
 Contract Details
 

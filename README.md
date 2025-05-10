@@ -22,11 +22,11 @@ Redemption: Users can redeem PLSTR to receive a proportional amount of vPLS at a
 
 The goal of this DeFi product is to grow PulseChain and reward PLSTR holders.
 
-PLSTR connects directly to PulseChain's success.
+PLSTR is always redeemable for vPLS directly tying it to PulseChain.
 
 vPLS continues earning validator rewards from PulseChain even while backing PLSTR on ETH.
 
-PLSTR will always be at least 1:1, with the possibility to increase the ratio of vPLS to PLSTR by capturing market premiums. 
+PLSTR will always be redeemable for at least 1:1 vPLS but has a high chance after issuance ends of secondary market volitility, creating discounts and premiums for users to take advantage of.
 
 
 

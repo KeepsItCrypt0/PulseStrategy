@@ -27,7 +27,7 @@ The contract incorporates security measures such as reentrancy protection and us
 
 • The newly acquired vPLS is bridged back to Ethereum and deposited into the contract, increasing the redeemable vPLS value of PLSTR.
 
-• Repeat: Higher reserves enhance PLSTR value, potentially driving further premiums, enabling more expansion and continuing the cycle.
+• Higher reserves enhance PLSTR value, potentially driving further premiums, enabling more expansion and continuing the cycle.
 
 This cycle mirrors MicroStrategy’s approach, using PLSTR premiums to accumulate vPLS, grow PLSTR value, and contribute to PulseChain’s ecosystem.
 
@@ -51,7 +51,7 @@ Key benefits include:
 
 PulseStrategy is the blockchain equivalent of MicroStrategy’s $50.6 billion Bitcoin accumulation, reimagined for PULSECHAIN. 
 
-By expanding PLSTR supply at market premiums, selling to acquire more VPLS, and repeating, PulseStrategy creates a self-reinforcing cycle that grows PLSTR value, increases bridge TVL and helps power PulseChain’s validator network. 
+By expanding PLSTR supply at market premiums to acquire more VPLS, and repeating, PulseStrategy creates a self-reinforcing cycle that grows PLSTR value, increases bridge TVL and helps power PulseChain’s validator network. 
 
 It’s a bold strategy to capture market enthusiasm, reinvest in core assets, promote PulseChain to eth users, and drive cross-chain innovation.
 

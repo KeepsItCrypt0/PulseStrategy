@@ -3,7 +3,7 @@
 
 MicroStrategy executed a leveraged Bitcoin play by holding Bitcoin as its reserve asset, then capitalizing on the rising stock prices that were a result of holding Btc, then expanding its supply, and using the proceeds to buy more Btc, that made their stock prices rise again in a feedback loop and By May 2025 MicroStrategy had accumulated 506,137 BTC worth roughly $50.6 billion at $100k per
 
-This virtuous cycle has made MicroStrategy a “Bitcoin proxy” for investors, and by leveraging market premiums to amass more of its core asset and MicroStrategy delivers more value to its shareholders.
+This virtuous cycle has made MicroStrategy a “Bitcoin proxy” for investors, and by leveraging market premiums to amass more of its core asset MicroStrategy delivers more value to its shareholders.
 
 PulseStrategy is a DeFi product designed to mirror MicroStrategy but by accumulating and leveraging PulseChain as a reserve asset instead of btc.
 

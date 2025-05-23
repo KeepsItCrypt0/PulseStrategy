@@ -33,6 +33,7 @@ This cycle mirrors MicroStrategy’s approach, using PLSTR premiums to accumulat
 PulseStrategy is offering PLSTR holders a way to make fees, yield, and expose Ethereum users to PulseChain assets, all while never taking value from PulseChain and only adding value too it.
 
 Key benefits include:
+
 • Increased vPLS reserves enhance the value of PLSTR potentially driving market values even higher. 
 
 • Holders can redeem for a proportional amount of vPLS assets at anytime.

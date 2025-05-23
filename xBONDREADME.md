@@ -1,10 +1,10 @@
-# xBOND Protocol
+# PulseStrategy's xBOND
  
-This readme provides a comprehensive overview of the xBOND protocol, its mechanics, and why it offers value to holders.
+This readme provides a comprehensive overview of xBOND, its mechanics, and why it offers value to holders.
 
 
 
-The protocol aims to create sustainable value for token holders by:
+The product aims to create sustainable value for token holders by:
 
 • Facilitating liquidity provision to a Pulsex liquidity pool (xBOND/PLSX pair).
 
@@ -18,15 +18,15 @@ The protocol aims to create sustainable value for token holders by:
 
 # Core Features
 
-• Token Issuance: Mint xBOND by depositing PLSX during a 90-day period.
+• Token Issuance: issue xBOND by depositing PLSX during a 90-day period.
 
-• Liquidity Pool: Fees from deposits fund a xBOND/PLSX pool on PulseX.
+• Liquidity Pool: 5% Fee on xBOND issuance funds a xBOND/PLSX pool on PulseX with lp tokens held by contract.
 
 • Transfer Tax: 5% tax on xBOND transfers. (5% to PLSTR, 20% burned, and 75% to PLSX an reinvested into reserves)
 
 • Redemption: Redeem xBOND for proportional amount of PLSX in contract balance.
 
-• Liquidity Reinvestment: public function allows Withdraw and reinvestment of 12.5% of LP tokens every 90 days.
+• Liquidity Reinvestment: public function allows Withdraw and reinvestment of 12.5% of LP tokens every 90 days which allows the 5% issuance fee to be returned with fees over time.
 
 
 
@@ -55,7 +55,7 @@ Deflationary Mechanics:
 
 
 
- 
+
 Accessible Entry and Exit:
 
 • Users can issue themselves xbond during the 90-day issuance period with a reasonable minimum deposit (10 PLSX).
@@ -100,6 +100,10 @@ The xBOND protocol offers a compelling DeFi investment opportunity by combining 
 Its transparent mechanics, secure design,and integration with PulseX make it an attractive option for both new and seasoned DeFi participants.
 
 By holding xBOND, users can benefit from passive PLSX accumulation, deflationary tokenomics, and a growing liquidity pool, all while retaining the flexibility to redeem shares at any time.
+
+License
+This contract is licensed under the MIT License. See the SPDX-License-Identifier at the top of the contract.
+
 
 
 Contact

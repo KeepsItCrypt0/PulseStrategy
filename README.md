@@ -36,15 +36,17 @@ Key benefits include:
 
 • Increased vPLS reserves enhance the value of PLSTR potentially driving market values even higher. 
 
-• Holders can redeem for a proportional amount of vPLS assets at anytime.
+• Holders can redeem for a proportional amount of vPLS at anytime.
 
 • PulseStrategy helps to strengthen PulseChain’s validator network improving security and decentralization.
 
-• Built with OpenZeppelin’s audited libraries, reentrancy protection, and event logging, PulseStrategy ensures safety and visibility. View functions (e.g., getVPLSBackingRatio) provide real-time insights into reserves and backing.
+• Built with OpenZeppelin’s audited libraries, reentrancy protection, and event logging, PulseStrategy ensures safety and visibility. 
+
+• View functions (e.g., getVPLSBackingRatio) provide real-time insights into reserves and backing.
 
 
 
-# PULSESTRATEGY'S xBOND ON PULSECHAIN
+# PULSESTRATEGYs xBOND ON PULSECHAIN
 
 •SEE xBOND README
 https://github.com/KeepsItCrypt0/PulseStrategy/blob/main/xBONDREADME.md

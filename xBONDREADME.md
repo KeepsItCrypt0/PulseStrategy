@@ -18,7 +18,7 @@ The product aims to create sustainable value for token holders by:
 
 # Core Features
 
-• Token Issuance: issue xBOND by depositing PLSX during a 90-day period.
+• Token Issuance: issue xBOND by depositing PLSX during a 120-day period.
 
 • Liquidity Pool: 5% Fee on xBOND issuance funds a xBOND/PLSX pool on PulseX with lp tokens held by contract.
 
@@ -58,7 +58,7 @@ Deflationary Mechanics:
 
 Accessible Entry and Exit:
 
-• Users can issue themselves xbond during the 90-day issuance period with a reasonable minimum deposit (10 PLSX).
+• Users can issue themselves xbond during the 120-day issuance period with a reasonable minimum deposit (10 PLSX).
 
 • A liquidity pool is created by contract that allows for user's to take advantage of discounts or premiums.
 
@@ -103,7 +103,6 @@ By holding xBOND, users can benefit from passive PLSX accumulation, deflationary
 
 License
 This contract is licensed under the MIT License. See the SPDX-License-Identifier at the top of the contract.
-
 
 
 Contact

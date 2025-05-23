@@ -13,7 +13,7 @@ The contract incorporates security measures such as reentrancy protection and us
 
 
 
-# How It works
+# Core Features 
 
 • Users deposit vPLS during a 180-day issuance period to issue PLSTR redeemable for a proportional amount of the Vpls in the contract at anytime.
 
@@ -35,7 +35,6 @@ This cycle mirrors MicroStrategy’s approach, using PLSTR premiums to accumulat
 # Why PulseStrategy Matters
 
 PulseStrategy is offering PLSTR holders a way to make fees, yield, and expose Ethereum users to PulseChain assets, all while never taking value from PulseChain and only adding value too it.
-A way to have your cake and eat it too.
 
 Key benefits include:
 • Increased vPLS reserves enhance the value of PLSTR potentially driving market values even higher. 
@@ -54,6 +53,12 @@ PulseStrategy is the blockchain equivalent of MicroStrategy’s $50.6 billion Bi
 By expanding PLSTR supply at market premiums to acquire more VPLS, and repeating, PulseStrategy creates a self-reinforcing cycle that grows PLSTR value, increases bridge TVL and helps power PulseChain’s validator network. 
 
 It’s a bold strategy to capture market enthusiasm, reinvest in core assets, promote PulseChain to eth users, and drive cross-chain innovation.
+
+
+# PULSESTRATEGY'S xBOND ON PULSECHAIN
+
+•SEE xBOND README and contract
+
 
 
 https://gopluslabs.io/token-security/1/0x6c1dA678A1B615f673208e74AB3510c22117090e

@@ -1,10 +1,6 @@
-# PulseStrategy complete overview
+# PulseStrategy
 
-
-MicroStrategy executed a leveraged Bitcoin play by holding Bitcoin as its reserve asset, then capitalizing on the rising stock prices that were a result of holding Btc, then expanding its supply, and using the proceeds to buy more Btc, that made their stock prices rise again in a feedback loop and By May 2025 MicroStrategy had accumulated 506,137 BTC worth roughly $50.6 billion at $100k per
-
-This virtuous cycle has made MicroStrategy a “Bitcoin proxy” for investors, and by leveraging market premiums to amass more of its core asset MicroStrategy delivers more value to its shareholders.
-
+ 
 PulseStrategy is a DeFi product designed to mirror MicroStrategy but by accumulating and leveraging PulseChain as a reserve asset instead of btc.
 
 This is a Ethereum defi product designed to have direct synergy with Pulsechain.
@@ -32,7 +28,7 @@ The contract incorporates security measures such as reentrancy protection and us
 This cycle mirrors MicroStrategy’s approach, using PLSTR premiums to accumulate vPLS, grow PLSTR value, and contribute to PulseChain’s ecosystem.
 
 
-# Why PulseStrategy Matters
+# Why $PLSTR brings value to holders
 
 PulseStrategy is offering PLSTR holders a way to make fees, yield, and expose Ethereum users to PulseChain assets, all while never taking value from PulseChain and only adding value too it.
 
@@ -46,14 +42,6 @@ Key benefits include:
 • Built with OpenZeppelin’s audited libraries, reentrancy protection, and event logging, PulseStrategy ensures safety and visibility. View functions (e.g., getVPLSBackingRatio) provide real-time insights into reserves and backing.
 
 
-# The PulseStrategy Vision
-
-PulseStrategy is the blockchain equivalent of MicroStrategy’s $50.6 billion Bitcoin accumulation, reimagined for PULSECHAIN. 
-
-By expanding PLSTR supply at market premiums to acquire more VPLS, and repeating, PulseStrategy creates a self-reinforcing cycle that grows PLSTR value, increases bridge TVL and helps power PulseChain’s validator network. 
-
-It’s a bold strategy to capture market enthusiasm, reinvest in core assets, promote PulseChain to eth users, and drive cross-chain innovation.
-
 
 # PULSESTRATEGY'S xBOND ON PULSECHAIN
 
@@ -62,11 +50,13 @@ https://github.com/KeepsItCrypt0/PulseStrategy/blob/main/xBONDREADME.md
 
 
 
-# Contract Details
+# Contract Details 
 
-Token: PLSTR (PulseStrategy)
+$PLSTR on ETH
 
-PLSTR Address: 0x6c1dA678A1B615f673208e74AB3510c22117090e
+Token: $PLSTR (PulseStrategy)
+
+$PLSTR Address: 0x6c1dA678A1B615f673208e74AB3510c22117090e
 
 vPLS from PulseChain Address: 0x0181e249c507d3b454dE2444444f0Bf5dBE72d09
 

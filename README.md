@@ -78,10 +78,4 @@ November 1, 2025 issuance closes and then PLSTR can only be acquired on secondar
 License
 This contract is licensed under the MIT License. See the SPDX-License-Identifier at the top of the contract.
 
-We Welcome Contributions!
-
-Clone the GitHub repository: git clone <repository-url>.
-
-We especially encourage contributions to develop new front-end interfaces to enhance user interaction with the contract.
-
 For questions or support, please contact the maintainers via X: @PulseStrategy

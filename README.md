@@ -41,7 +41,7 @@ Key benefits include:
 
 
 
-# PulseStrategys $xBOND ON PULSECHAIN
+# PulseStrategy's $xBOND ON PULSECHAIN
 
 •SEE xBOND README
 https://github.com/KeepsItCrypt0/PulseStrategy/blob/main/xBONDREADME.md

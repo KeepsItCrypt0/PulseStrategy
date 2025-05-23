@@ -4,25 +4,13 @@ This readme provides a comprehensive overview of xBOND, its mechanics, and why i
 
 
 
-The product aims to create sustainable value for token holders by:
-
-• Facilitating liquidity provision to a Pulsex liquidity pool (xBOND/PLSX pair).
-
-• Implementing a tax mechanism on transfers to enhance reserves and reward holders.
-
-• Periodically withdrawing lp tokens and reinvesting back into plsx reserves.
-
-• Allowing users to redeem xbond for underlying PLSX tokens.
-
-
-
 # Core Features
 
 • Token Issuance: issue xBOND by depositing PLSX during a 120-day period.
 
 • Liquidity Pool: 5% Fee on xBOND issuance funds a xBOND/PLSX pool on PulseX with lp tokens held by contract.
 
-• Transfer Tax: 5% tax on xBOND transfers. (5% to PLSTR, 20% burned, and 75% to PLSX an reinvested into reserves)
+• Transfer Tax: 5% tax on xBOND transfers. (5% to $PLSTR, 20% burned, and 75% to PLSX an reinvested into reserves)
 
 • Redemption: Redeem xBOND for proportional amount of PLSX in contract balance.
 
@@ -32,7 +20,6 @@ The product aims to create sustainable value for token holders by:
 
 
 # Why Invest in xBOND?
-
 
 
 
@@ -101,9 +88,11 @@ Its transparent mechanics, secure design,and integration with PulseX make it an 
 
 By holding xBOND, users can benefit from passive PLSX accumulation, deflationary tokenomics, and a growing liquidity pool, all while retaining the flexibility to redeem shares at any time.
 
-License
+
+
+# License
 This contract is licensed under the MIT License. See the SPDX-License-Identifier at the top of the contract.
 
 
-Contact
+# Contact
 @PulseStrategy on X

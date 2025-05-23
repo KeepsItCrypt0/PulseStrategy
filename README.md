@@ -1,11 +1,7 @@
-# PulseStrategy
+# PulseStrategy's $PLSTR ON ETH
 
  
-PulseStrategy is a DeFi product designed to mirror MicroStrategy but by accumulating and leveraging PulseChain as a reserve asset instead of btc.
-
-This is a Ethereum defi product designed to have direct synergy with Pulsechain.
-
-The contract incorporates security measures such as reentrancy protection and uses OpenZeppelin's standard libraries for ERC20 functionality and safe token handling.
+$PLSTR is designed to mirror $MSTR but by accumulating and leveraging PulseChain as a reserve asset instead of btc.
 
 
 
@@ -15,7 +11,7 @@ The contract incorporates security measures such as reentrancy protection and us
 
 • After issuance PLSTR is likely to trade on secondary markets at discounts and premiums compared to its redeemable vPLS value which savy users can take advantage of.
 
-• When market demand drives PLSTR price above its redeemable value (a premium), it signals an opportunity to grow the vPLS reserve by expanding supply and capturing market premiums akin to MicroStrategys leverage play.
+• When market demand drives PLSTR price above its redeemable value (a premium), it signals an opportunity to grow the vPLS reserve by expanding supply and capturing market premiums.
 
 • When premiums are captured they are Bridged to PulseChain increasing the bridge’s Total Value Locked (TVL).
 
@@ -25,7 +21,6 @@ The contract incorporates security measures such as reentrancy protection and us
 
 • Higher reserves enhance PLSTR value, potentially driving further premiums, enabling more expansion and continuing the cycle.
 
-This cycle mirrors MicroStrategy’s approach, using PLSTR premiums to accumulate vPLS, grow PLSTR value, and contribute to PulseChain’s ecosystem.
 
 
 # Why $PLSTR brings value to holders
@@ -46,7 +41,7 @@ Key benefits include:
 
 
 
-# PULSESTRATEGYs xBOND ON PULSECHAIN
+# PulseStrategys $xBOND ON PULSECHAIN
 
 •SEE xBOND README
 https://github.com/KeepsItCrypt0/PulseStrategy/blob/main/xBONDREADME.md

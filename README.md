@@ -57,17 +57,12 @@ It’s a bold strategy to capture market enthusiasm, reinvest in core assets, pr
 
 # PULSESTRATEGY'S xBOND ON PULSECHAIN
 
-•SEE xBOND README and contract
+•SEE xBOND README
+https://github.com/KeepsItCrypt0/PulseStrategy/blob/main/xBONDREADME.md
 
 
 
-https://gopluslabs.io/token-security/1/0x6c1dA678A1B615f673208e74AB3510c22117090e
-
-https://blocksafu.com/token-scanner/1/0x6c1dA678A1B615f673208e74AB3510c22117090e
-
-Any participation directly strengthens PulseChain by exposing Ethereum users to PulseChain assets.
-
-Contract Details
+# Contract Details
 
 Token: PLSTR (PulseStrategy)
 
@@ -79,6 +74,12 @@ Minimum PLSTR Issuance: 1,005 PLSTR
 Issuance Period: 180 days from deployment.
 
 November 1, 2025 issuance closes and then PLSTR can only be acquired on secondary markets.
+
+
+https://gopluslabs.io/token-security/1/0x6c1dA678A1B615f673208e74AB3510c22117090e
+
+https://blocksafu.com/token-scanner/1/0x6c1dA678A1B615f673208e74AB3510c22117090e
+
 
 License
 This contract is licensed under the MIT License. See the SPDX-License-Identifier at the top of the contract.

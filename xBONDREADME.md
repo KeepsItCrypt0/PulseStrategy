@@ -8,13 +8,11 @@ This readme provides a comprehensive overview of xBOND, its mechanics, and why i
 
 • Token Issuance: issue xBOND by depositing PLSX during a 120-day period.
 
-• Liquidity Pool: 5% Fee on xBOND issuance funds a xBOND/PLSX pool on PulseX with lp tokens held by contract.
+• Liquidity Pool: 5% Fee on xBOND issuance funds a xBOND/PLSX pool and is given back over time.
 
-• Transfer Tax: 5% tax on xBOND transfers. (5% to $PLSTR, 20% burned, and 75% to PLSX an reinvested into reserves)
+• Transfer Tax: 5% tax on xBOND transfers. (5% to $PLSTR, 20% burned, and 75% swapped to PLSX an reinvested into reserves)
 
 • Redemption: Redeem xBOND for proportional amount of PLSX in contract balance.
-
-• Liquidity Reinvestment: public function allows Withdraw and reinvestment of 12.5% of LP tokens every 90 days which allows the 5% issuance fee to be returned with fees over time.
 
 
 
@@ -25,29 +23,24 @@ This readme provides a comprehensive overview of xBOND, its mechanics, and why i
 
 Passive Value Growth:
 
-• The 5% transfer tax ensures continuous accumulation of PLSX in the contract and deflation of xbond, increasing the backing value of each XBOND.
+• The 5% transfer tax ensures continuous accumulation of PLSX in the contract and deflation of xBOND, increasing the backing value of each xBOND.
 
-• liquidity withdrawal and reinvestment every 90 days optimize the contract's PLSX holdings, enhancing redeemable value.
-
-
+• the 5% issuance fee used to provide liquidity is given back over time to xBOND holders by the strategy periodically withdrawing 5% of held lp token then swaping xBOND to PLSX and adding PLSX to reserves 
 
 
 Deflationary Mechanics:
 
 • Share redemption burns xBOND tokens, reducing total supply and potentially Increasing the value of remaining tokens.
 
-• Lower supply, combined with growing PLSX reserves, can enhance the per-share backing ratio.
-
 • 20% of the transfer tax is burned making xbond deflationary.
 
+• Lower supply, combined with growing PLSX reserves, enhances the per-share backing ratio.
 
 
 
 Accessible Entry and Exit:
 
-• Users can issue themselves xbond during the 120-day issuance period with a reasonable minimum deposit (10 PLSX).
-
-• A liquidity pool is created by contract that allows for user's to take advantage of discounts or premiums.
+• Users can issue themselves xBOND during the 120-day issuance period with a reasonable minimum deposit (10 PLSX).
 
 • Redemption is available anytime,
 providing flexibility to exit with PLSX proportional to the contract's balance.
@@ -63,30 +56,20 @@ providing flexibility to exit with PLSX proportional to the contract's balance.
 
 Transfer Tax Redistribution:
 
-• Every XBOND transfer incurs 5% tax, of which 75% is swapped for PLSX and held by the contract's reserves.
+• Every xBOND transfer incurs 5% tax, of which 75% is swapped for PLSX and held by the contract's reserves.
 
 • This increases the contract's PLSX balance, directly boosting the redeemable value per xBOND share
 
-• 20% of the transfer tax is burned making xbond deflationary and increases the plsx per xbond ratio.
-
-
-
-Liquidity Withdrawal and Reinvestment:
-
-• Every 90 days, 12.5% of LP tokens are withdrawn, yielding xBOND and PLSX.
-
-• Withdrawn xBOND is swapped for PLSX, consolidating the contract's holdings into PLSX.
-
-• This reinvestment increases the PLSX backing ratio, enhancing the value users can redeem per xbond.
+• 20% of the transfer tax is burned making xbond deflationary and increases the PLSX per xBOND ratio.
 
 
 
 
-The xBOND protocol offers a compelling DeFi investment opportunity by combining liquidity provision, tax redistribution, burns, and periodic reinvestment to create value for holders. 
+The xBOND protocol offers a compelling DeFi investment opportunity by combining tax redistribution, burns, and a bonded asset to create value for holders. 
 
-Its transparent mechanics, secure design,and integration with PulseX make it an attractive option for both new and seasoned DeFi participants.
+Its transparent mechanics and secure design make it an attractive option for both new and seasoned DeFi participants.
 
-By holding xBOND, users can benefit from passive PLSX accumulation, deflationary tokenomics, and a growing liquidity pool, all while retaining the flexibility to redeem shares at any time.
+By holding xBOND, users can benefit from passive PLSX accumulation and deflationary tokenomics all while retaining the flexibility to redeem PLSX at any time.
 
 
 

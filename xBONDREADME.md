@@ -72,6 +72,15 @@ Its transparent mechanics and secure design make it an attractive option for bot
 By holding xBOND, users can benefit from passive PLSX accumulation and deflationary tokenomics all while retaining the flexibility to redeem PLSX at any time.
 
 
+# Contract Details
+
+$xBOND on PulseChain 
+
+Token: $xBOND (PulseStrategy)
+
+$xBOND Address:0x57Adc33A267fA092A26D9446eF4877aa0Fa0b02F
+
+
 
 # License
 This contract is licensed under the MIT License. See the SPDX-License-Identifier at the top of the contract.

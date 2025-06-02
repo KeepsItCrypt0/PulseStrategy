@@ -32,7 +32,7 @@ Deflationary Mechanics:
 
 • Share redemption burns xBOND tokens, reducing total supply and potentially Increasing the value of remaining tokens.
 
-• 20% of the transfer tax is burned making xbond deflationary.
+• 1% of the transfer tax is burned making xbond deflationary.
 
 • Lower supply, combined with growing PLSX reserves, enhances the per-share backing ratio.
 
@@ -56,11 +56,11 @@ providing flexibility to exit with PLSX proportional to the contract's balance.
 
 Transfer Tax Redistribution:
 
-• Every xBOND transfer incurs 5% tax, of which 75% is swapped for PLSX and held by the contract's reserves.
+• Every xBOND transfer incurs 5% tax, of which 3.75% is swapped for PLSX and held by the contract's reserves.
 
 • This increases the contract's PLSX balance, directly boosting the redeemable value per xBOND share
 
-• 20% of the transfer tax is burned making xbond deflationary and increases the PLSX per xBOND ratio.
+• 1% of the transfer tax is burned making xbond deflationary and increases the PLSX per xBOND ratio.
 
 
 

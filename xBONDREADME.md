@@ -10,7 +10,7 @@ This readme provides a comprehensive overview of xBOND, its mechanics, and why i
 
 • Liquidity Pool: 5% Fee on xBOND issuance funds a xBOND/PLSX pool and is given back over time.
 
-• Transfer Tax: 5% tax on xBOND transfers. (5% to $PLSTR, 20% burned, and 75% swapped to PLSX an reinvested into reserves)
+• Transfer Tax: 5% tax on xBOND transfers. (0.25% to $PLSTR, 1% burned, and 3.75% swapped to PLSX an reinvested into reserves)
 
 • Redemption: Redeem xBOND for proportional amount of PLSX in contract balance.
 

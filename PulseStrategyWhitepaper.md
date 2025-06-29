@@ -7,7 +7,11 @@
 
 ## Executive Summary
 
-PulseStrategy is a decentralized, community-driven protocol built on PulseChain, designed to grow wealth for its users by relentlessly accumulating core ecosystem assets—PLSX, INC, and (Vouch-staked PLS) vPLS—in a transparent, trustless way. Inspired by MicroStrategy’s leveraged Bitcoin accumulation to create value for shareholders, PulseStrategy uses smart contracts to create a self-sustaining, deflationary system that benefits everyone involved. Whether you’re a long-term holder looking for steady growth, a trader seeking arbitrage profits, or a liquidity provider earning rewards, PulseStrategy offers a unique opportunity to participate in PulseChain’s thriving ecosystem.  
+PulseStrategy is a decentralized, community-driven protocol built on PulseChain, designed to grow value for holders in a transparent, trustless way. 
+
+Inspired by MicroStrategy’s leveraged Bitcoin accumulation to create value for shareholders, PulseStrategy uses immutable smart contracts to create self-sustaining, community owned decentralized reserves with deflationary mechanics that benefit everyone involved. 
+
+Whether you’re a long-term holder looking for steady growth, a trader seeking arbitrage profits, or a liquidity provider lookong to earn rewards, PulseStrategy offers a unique opportunity to participate.  
 
 This whitepaper explains how PulseStrategy works, why it’s valuable, and how you can get involved. From its deflationary mechanics to its reward system, we’ll break it all down in simple terms while providing the technical details for those who want to dive deeper.
 
@@ -41,21 +45,16 @@ This whitepaper explains how PulseStrategy works, why it’s valuable, and how y
 
 ## Vision & Philosophy
 
-PulseStrategy is like a digital vault for PulseChain’s most valuable assets—PLSX, INC, and vPLS. It’s built to grow the wealth of its community by locking up these assets in decentralized reserves and making them more valuable over time. its like MicroStrategy’s, but for PulseChain and Instead of a single company holding assets, PulseStrategy lets everyone in the community own a piece of the treasury.  
-
 Our philosophy is simple:  
-
-- **Create value, don’t extract it.**
- PulseStrategy strengthens PulseChain by accumulating its core assets, PLSX, INC, and vPLS supporting the PulseChain network and its security.
   
 - **Reward participation.** 
 Whether you hold, trade, or provide liquidity, you benefit from the protocol’s growth.  
 
-- **Build trust through transparency.** 
+- **trust through transparency.** 
 Every action is on-chain, immutable, and verifiable—no hidden fees, no admin control, no surprises.  
 
 - **Make it last.** 
-With deflationary mechanics and a focus on scarcity, PulseStrategy is designed to thrive for years to come.
+With deflationary mechanics and a focus on core PulseChain assets, PulseStrategy is designed to thrive for years to come.
 
 
 ---
@@ -70,7 +69,7 @@ PulseStrategy is made up of three interconnected tokens, each backed by a reserv
   xBond is a PRC20 token that represents your share of the PLSX (PulseX’s native token) held in a decentralized smart contract. It’s like a ticket that proves you own a piece of the PLSX vault.  
 
 - **How to Get xBond?**  
-  For the first 180 days after the contract is deployed, anyone can mint xBond by depositing PLSX. You get 1 xBond for every 1 PLSX you deposit, minus a small 0.5% fee that helps kickstart liquidity pools.  
+  For the first 180 days after the contract is deployed, anyone can mint xBond by depositing PLSX. You get 1 xBond for every 1 PLSX you deposit, minus a small 0.5% fee.  
   **Example:** Deposit 1,000 PLSX → receive 995 xBond (after the 0.5% fee).  
 
   After 180 days, minting stops forever. The only way to get xBond is to buy it on a decentralized exchange (DEX) like PulseX.  
@@ -79,9 +78,9 @@ PulseStrategy is made up of three interconnected tokens, each backed by a reserv
   At any time, you can redeem your xBond for a share of the PLSX in the contract’s reserve. The reserve is always at least 1:1 with the xBond supply, meaning you’ll never get less PLSX than you put in (minus the initial 0.5% fee). As other users trade xBond and tokens burn, your share of the reserve grows, so each xBond becomes worth *more* PLSX over time offsetting your fee and growing the value even more.  
 
 - **Transfer Tax:**  
-  Every time xBond is transferred (except to/from the contract or the Origin Address), 0.5% of the amount is taxed:  
+  Every time xBond is transferred (except minting/redemptions), 0.5% of the amount is taxed:  
   - 0.25% is burned (gone forever).  
-  - 0.25% goes to the Origin Address (more on this later).  
+  - 0.25% goes to the Origin Address.  
   This makes xBond scarcer with every trade, increasing its value for holders.  
 
 - **Why Hold xBond?**  
@@ -100,10 +99,10 @@ PulseStrategy is made up of three interconnected tokens, each backed by a reserv
   You can redeem iBond at any time for your share of the INC reserve, with a minimum 1:1 backing. As iBond is burned through transfers, each remaining iBond becomes worth more INC.  
 
 - **Transfer Tax:**  
-  Just like xBond, iBond transfers (outside the contract or Origin Address) incur a 0.5% tax: 0.25% burned, 0.25% to the Origin Address.  
+  Just like xBond, iBond transfers (outside minting/redemptions) incur a 0.5% tax: 0.25% burned, 0.25% to the Origin Address.  
 
 - **Why Hold iBond?**  
-  iBond holders benefit from a growing INC reserve and can also claim PLStr rewards, making it a great way to gain exposure to INC’s growth within PulseChain.
+  iBond holders benefit from traders growing each holders redeemable INC value and can also claim PLStr rewards.
 
 ### PLStr: The vPLS Reward System
 
@@ -116,10 +115,10 @@ PulseStrategy is made up of three interconnected tokens, each backed by a reserv
 If you hold xBond, iBond, or their liquidity pool (LP) tokens (e.g., xBond/PLSX or iBond/INC pairs on PulseX), you can claim PLStr. Rewards are weighted based on your holdings, and LP providers get a **2x boost** to encourage liquidity.  
 
 - **Dynamic Weighting:**  
-  The amount of PLStr you can claim depends on a formula that adjusts based on the ratio of PLSX to INC in the ecosystem. This keeps rewards fair and balanced. INC gets more Plstr because its supply is much smaller than plsx. but holding same value of inc and plsx should get close to same amount of plstr. 
+  The amount of PLStr you can claim depends on a formula that adjusts based on the ratio of PLSX to INC in the ecosystem. This keeps rewards fair and balanced. INC gets more Plstr because its supply is much smaller than plsx. but holding same value of inc and plsx should get similar amount of plstr. 
 
 - **Transfer Burn:**  
-  Every PLStr transfer (except for claims or redemptions) burns 0.5% of the amount, making PLStr scarcer over time.  
+  Every PLStr transfer (except for claims or redemptions) burns 0.5% of the amount, increasing holders redemption value.  
 
 - **Reward Expiry:**  
   PLStr rewards expire 90 days after the last vPLS deposit. This encourages active participation and ensures the system stays dynamic. Expired rewards are effectively burned, increasing the vPLS backing for remaining PLStr holders.  
@@ -137,13 +136,13 @@ PulseStrategy is designed to make its tokens—and the PulseChain ecosystem—mo
 ### Deflationary Mechanics
 
 - **Burns Shrink Supply:** 
-Every time xBond, iBond, or PLStr is transferred, a portion is burned (0.25% for xBond/iBond, 0.5% for PLStr). This reduces the total supply, making each remaining token more valuable.  
+Every time xBond, iBond, or PLStr is transferred, a portion is burned (0.25% for xBond/iBond, 0.5% for PLStr). This reduces the total supply, increasing each remaining tokens redeemable value.  
 
 - **Growing Reserves:** 
-The PLSX, INC, and vPLS in the contracts stay the same or grow (if more are deposited). With fewer tokens in circulation, each token represents a larger share of the reserve.  
+The PLSX, INC, and vPLS in the contracts can grow slowly over time while the ibond/xbond supplys are deflationary meaning each remaining token represents a larger share of the reserve.  
 
 - **Passive Growth:** 
-You don’t need to do anything to benefit. As others trade, your holdings automatically become worth more.  
+You don’t need to do anything to benefit. As others trade, your holdings automatically become worth more.
 
 
 ### Origin Address (OA) Role
@@ -183,7 +182,7 @@ Every arbitrage trade involves transfers, which burn tokens and increase the val
  After 180 days, no new xBond or iBond can ever be minted. The only way to get them is to buy on a DEX, driving demand for a shrinking supply.  
 
 - **Deflationary Flywheel:** 
-As burns reduce supply and demand grows, each bond becomes scarcer and more valuable. This creates a self-reinforcing cycle that rewards early adopters and long-term holders.  
+As burns reduce supply and demand grows, each bond becomes scarcer and more valuable. This creates a self-reinforcing cycle that rewards long-term holders.  
 
 - **Ecosystem Synergy:** By locking up PLSX, INC, and especially vPLS, PulseStrategy supports PulseChain’s tokenomics an network Security, making the entire network stronger and more resilient.
 
@@ -319,7 +318,7 @@ You always control your assets. The contracts only hold reserves to back the tok
 ## Frequently Asked Questions (FAQs)
 
 **Q: What happens if the Origin Address does nothing?**  
-A: The protocol doesn’t rely on the OA. Burns from transfers alone ensure that each xBond/iBond is backed by more PLSX/INC over time, and PLStr rewards still function without OA deposits.  
+A: The protocol doesn’t rely on the OA. Burns from transfers alone ensure that each xBond/iBond is backed by more PLSX/INC over time.  
 
 **Q: Why would anyone trade xBond or iBond?**  
 A: Traders profit by arbitraging price differences between DEXs and the contract’s redemption value. Every trade burns tokens, making bonds scarcer and more valuable for holders.  
@@ -331,10 +330,7 @@ A: No. They’re fully immutable, with no admin keys or backdoors. The code runs
 A: No new xBond/iBond can be minted. Supply can only shrink through burns, and demand must come from DEXs, driving scarcity and value.  
 
 **Q: Who can deposit vPLS for PLStr rewards?**  
-A: Anyone, including the OA or community members. Depositing vPLS doesn’t mint PLStr for the depositor—it grows the reward pool for xBond/iBond/LP holders, supporting the ecosystem.  
-
-**Q: How does PulseStrategy support PulseChain?**  
-A: By locking up PLSX, INC, and vPLS in reserves, PulseStrategy reduces circulating supply, strengthens tokenomics, and creates incentives for holding and liquidity provision.  
+A: Anyone, including the OA or community members. Depositing vPLS doesn’t mint PLStr for the depositor—it grows the claimable PLStr pool for xBond/iBond/LP holders that are supporting the ecosystem.
 
 ---
 
